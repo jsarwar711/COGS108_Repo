@@ -1,2 +1,2 @@
 # COGS108_Repo
-For COGS 18 A1
+For COGS 108 A1
